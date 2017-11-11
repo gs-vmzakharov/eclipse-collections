@@ -68,7 +68,7 @@ import org.eclipse.collections.impl.utility.LazyIterate;
  * </pre>
  *
  * FixedSize Examples:
- *
+ * 
  * <pre>
  * FixedSizeList&lt;String&gt; emptySet = Sets.fixedSize.empty();
  * FixedSizeList&lt;String&gt; setWith = Sets.fixedSize.with("a", "b", "c");
